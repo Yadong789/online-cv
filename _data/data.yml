@@ -81,6 +81,30 @@ education:
           - Experimentally studied the dynamic response of pavements on elastic foundation
           
 experiences:
+    - role: Pipeline & Geotechnical Research Assistant
+      time: 2016 - Present
+      company: University of Calgary
+      details: |
+        As one of the main participants of the soil-pipeline interaction behavior under
+        heavy truck load, Mr. Yadong successfully designed and conducted two full-scale
+        tests on X52 steel pipes. His roles in this project are: 
+          - Prepared sketches using AutoCAD along with specifications after designing the full-scale tests 
+          - Supervised construction crews to guarantee the quality of soil compaction and subsequent loading tests
+          - Designed and conducted two full-scale tests to investigate the impact of heavy truck load on the mechanical behavior of decommissioned pipes
+          - Experimentally investigated the stress rise effect due to pipe corrosion
+          - Developed Python programs to efficiently process the experimental data 
+          - Developed 3D finite element models using ABAQUS to simulate soil-pipeline interaction problems considering material, geometric and contact nonlinearities
+          - Designed a testing method and assembled the equipment to conduct oedometer and undrained triaxial tests on unsaturated sand and clay
+          
+    - role: Field Test Leader
+      time: 2019 - 2021
+      company: University of Calgary
+      details: |
+        As part of Mr. Yadong's work done, he supervised the field test through intial designing to the end of field tests.
+          - Prepared sketches using AutoCAD along with specifications after designing the full-scale tests 
+          - Communicated with our contractor to specify our demands and requirements
+          - Supervised construction crews to guarantee the quality of soil compaction and subsequent loading tests
+
     - role: Review for Journal 
       time: 2019 - Present
       company: Soil Dynamics and Earthquake Engineering
@@ -88,29 +112,7 @@ experiences:
         Mr. Yadong has served as a reviewer for journal SDEE since 2019.
           - Reviewed technical papers before being accepted for publication
           
-    - role: Field Test Leader
-      time: 2019 - 2021
-      company: University of Calgary
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Prepared sketches using AutoCAD along with specifications after designing the full-scale tests 
-          - Communicated with our contractor to specify our demands and requirements
-          - Supervised construction crews to guarantee the quality of soil compaction and subsequent loading tests
+  
 projects:
     title: 
     intro: >
