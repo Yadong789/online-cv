@@ -14,13 +14,13 @@ sidebar:
     # Sidebar links
     email: yadong.zhang@ucalgary.ca
     phone: (403)681-1806
-    website: blog.webjeda.com #do not add http://
+    website: #blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/yadong-zhang-18789a16b/
-    github: sharu725
+    github: #sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     #tack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,8 +32,8 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
       - item: Climbing
